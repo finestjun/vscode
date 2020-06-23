@@ -1755,6 +1755,15 @@
           "dark": "#8db9e2",
           "highContrast": "#8db9e2"
         }
+      },
+      {
+        "id": "gitDecoration.stageIndicatorResourceForeground",
+        "description": "%colors.stageIndicator%",
+        "defaults": {
+          "light": "#77becb",
+          "dark": "#77becb",
+          "highContrast": "#77becb"
+        }
       }
     ],
     "languages": [
